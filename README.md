@@ -38,7 +38,7 @@ My name is Tao Xiang, a.k.a 向涛. I'm currently studying computer science (Mas
     - developed resource planner jointly
     - Github repository: [link](https://cutt.ly/RaRPPfAV)
 
-**2021 finished**
+**2021 finished:**
 1. CIS program: Algorithm and Modeling Method in Biomedical Imaging
     - [link](https://www.cathaypath.com/onlineprojects/JensRittscher.html)
     - Topic: Detection of HeLa Cells in brightfield images
