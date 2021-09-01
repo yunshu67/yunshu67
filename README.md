@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 My name is Tao Xiang, a.k.a 向涛. I'm currently studying computer science (Master) at Technical University of Munich, a.k.a TUM. 
 
-📫 How to reach me 联系方式:
-  - For business cooperation **商业合作**: xiang.tao@outlook.de
-  - Ask me questions about my codes **询问我代码上的问题**: Please ask in the server and we can chat about it:  https://kaihei.co/fMCUT6   
+📫 **How to reach me 联系方式:**
+  - For business cooperation (商业合作): xiang.tao@outlook.de
+  - Ask me questions about my codes (询问我代码上的问题): Please ask in the server and we can chat about it:  https://kaihei.co/fMCUT6   
 
-👥 The projects I've taken part in:
+👥 **The projects I've taken part in:**
 
-**2020:**
+*2020:*
 
 1. Seminar sourse at TUM: Computational Aspects of Machine Learning 
     - [link](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950434852&pSpracheNr=1)
@@ -38,7 +38,7 @@ My name is Tao Xiang, a.k.a 向涛. I'm currently studying computer science (Mas
     - developed resource planner jointly
     - Github repository: [link](https://cutt.ly/RaRPPfAV)
 
-**2021 finished:**
+*2021 finished:*
 1. CIS program: Algorithm and Modeling Method in Biomedical Imaging
     - [link](https://www.cathaypath.com/onlineprojects/JensRittscher.html)
     - Topic: Detection of HeLa Cells in brightfield images
@@ -47,7 +47,7 @@ My name is Tao Xiang, a.k.a 向涛. I'm currently studying computer science (Mas
 2. bachelor's thesis
 
 
-**present:**
+*present:*
 1. Virtual Assistant: [link](https://github.com/n0t-th3b0t/Virtual-assistant)
 2. kaiheila bot dev
 
