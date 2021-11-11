@@ -30,7 +30,7 @@ My name is Tao Xiang, a.k.a 向涛. I'm currently studying computer science (Mas
     - Topic: Machine learning as a black box solution
     - understood the basic pipeline and commonly used algorithms of Auto-ML
     - analyzed and compared the differences of various algorithms from a computational perspective
-    - report: [link](https://yunshu67.github.io/blog-taoxiang/articles/Machine%20Learning%20as%20a%20Black%20Box-tao%20xiang.pdf)
+    - repo: [link](https://yunshu67.github.io/blog-taoxiang/articles/Machine%20Learning%20as%20a%20Black%20Box-tao%20xiang.pdf)
 2. Lab course at TUM: Developing a Resource Planning Platform for Autonomous Vehicles
     > The resource planner computes an architectural proposal based on predefined optimization goals for an autonomous driving vehicle by collecting system properties and AI-based application requirements.
     - In a team of two persons.
