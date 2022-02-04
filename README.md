@@ -43,15 +43,15 @@ My name is Tao Xiang, a.k.a 向涛. I'm currently studying computer science (Mas
     - [link](https://www.cathaypath.com/onlineprojects/JensRittscher.html)
     - Topic: Detection of HeLa Cells in brightfield images
     - Github repo: [link](https://github.com/yunshu67/Analysis-of-brightfield-images)
-    - paper: [link](https://github.com/yunshu67/Analysis-of-brightfield-images/blob/main/Detection%20of%20HeLa%20Cells%20in%20brightfield%20images.pdf)
+    - paper: [link](https://ieeexplore.ieee.org/document/9543103)
 2. bachelor's thesis
      - [link](https://github.com/yunshu67/Bachelor-thesis---Extension-of-a-second-order-optimizer-to-NLP)
-3. 2021QQ浏览器AI算法大赛赛道二第15名
+3. 2021QQBrowser AI Algorithm Competition Track 2 ranked 15th
      - [github](https://github.com/Hongkuan-Zhou/QQ-Browser-AI-Algorithm)
 
 *present:*
 1. Virtual Assistant: [link](https://github.com/n0t-th3b0t/Virtual-assistant)
-2. kaiheila bot dev
+2. kaiheila chatbot dev
 
 
 
